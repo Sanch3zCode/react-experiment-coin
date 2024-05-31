@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'NeueMachina';
+    font-weight: 300;
+    src: local('NeueMachina'), url('./fonts/NeueMachina/NeueMachina-Regular.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NeueMachina';
+    font-weight: 600;
+    src: local('NeueMachina'), url('./fonts/NeueMachina/NeueMachina-Ultrabold.otf') format('truetype');
+}
+
+* {
+    font-family: 'NeueMachina';
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
