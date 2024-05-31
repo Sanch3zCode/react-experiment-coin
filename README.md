@@ -1,0 +1,2 @@
+# React experimental project (Crypto Wallet)
+This project was made with the aim of consolidating the acquired knowledge in React and Node.js. A strong emphasis is placed on design, it is made with high quality. The project is a little unfinished, but I decide to complete it in order to do larger projects, this project is considered experimental, thanks to it I learned how to interact with React and Node.js
